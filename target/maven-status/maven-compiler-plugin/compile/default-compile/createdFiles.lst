@@ -1,8 +1,12 @@
-hotelmanage\RoomInfo.class
-hotelmanage\AbstractEvent.class
-hotelmanage\AbstractEvent$1.class
 hotelmanage\PolicyHandler.class
 hotelmanage\Application.class
 hotelmanage\config\kafka\KafkaProcessor.class
-hotelmanage\RoomInfoRepository.class
+hotelmanage\DataSourceProperties.class
 hotelmanage\RoomConditionChanged.class
+hotelmanage\RoomInfo.class
+hotelmanage\AbstractEvent.class
+hotelmanage\ProductAdded.class
+hotelmanage\Product.class
+hotelmanage\ProductRepository.class
+hotelmanage\AbstractEvent$1.class
+hotelmanage\RoomInfoRepository.class

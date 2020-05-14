@@ -1,9 +1,12 @@
 package hotelmanage;
 
+import org.springframework.beans.factory.annotation.Qualifier;
+
 import javax.persistence.*;
 
 @Entity
 @Table(name="RoomInfo_table")
+@Qualifier("room")
 public class RoomInfo {
 
     @Id @GeneratedValue
